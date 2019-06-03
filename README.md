@@ -1,4 +1,5 @@
 # Sentiment Analysis using Naive Bayes Network
+Performs Sentiment Analysis on input sentences to conduct a binary sentiment analysis of the data. Uses Uniform Dirichlet priors and logarithmic sums. 
 
 ## Running and Installation:
 1) python3.5 -m venv env
